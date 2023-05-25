@@ -1,0 +1,36 @@
+body {
+  background-color: #dbc4a9;
+}
+#menu {
+  overflow: hidden;
+  margin-right: 280px;
+}
+#menu,
+a {
+  display: flex;
+  padding-right: 70px;
+  margin-top: 15px;
+  float: right;
+  flex-wrap: wrap;
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.red {
+  height: 990px;
+  width: 30%;
+  float: left;
+  margin-left: 17%;
+  background-color: #b1454a;
+  flex-wrap: wrap;
+}
+.red h5 {
+  color: white;
+  font-size: 24px;
+  font-family: serif;
+  padding: 20px 0px 0px 30px;
+  font-weight: 600;
+}
+.red img {
+  margin-top: 90px;
+}
